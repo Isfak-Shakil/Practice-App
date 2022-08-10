@@ -14,8 +14,9 @@
         android:theme="@style/Theme.GitHubPractice"
         tools:targetApi="31">
         <activity
-            android:name=".LoginActiviy"
+            android:name=".LoginActivity"
             android:exported="false" />
+
         <activity
             android:name=".MainActivity"
             android:exported="true">
